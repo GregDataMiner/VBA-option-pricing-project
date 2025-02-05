@@ -101,4 +101,3 @@ End Sub
    Modify the VBA code if needed to customize the starting positions or visual styles.
 
 Enjoy using the project!
-```
