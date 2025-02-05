@@ -88,7 +88,7 @@ End Sub
 1. **Clone the Repository**  
    Clone the GitHub repository to download the code and Excel files:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/GregDataMiner/VBA-option-pricing-project.git
    ```
 
 2. **Set Up the Excel Workbook**  
